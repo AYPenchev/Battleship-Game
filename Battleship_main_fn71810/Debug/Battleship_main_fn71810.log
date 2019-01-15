@@ -1,0 +1,23 @@
+﻿  stdafx.cpp
+  AITurn.cpp
+  Battleship.cpp
+  Battleship_main_fn71810.cpp
+  Board.cpp
+  Carrier.cpp
+  Cruiser.cpp
+  Destroyer.cpp
+  Game.cpp
+d:\projects\battleship_main_fn71810\battleship_main_fn71810\game.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\projects\battleship_main_fn71810\battleship_main_fn71810\game.cpp(112): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\projects\battleship_main_fn71810\battleship_main_fn71810\game.cpp(119): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MyTurn.cpp
+  Ship.cpp
+d:\projects\battleship_main_fn71810\battleship_main_fn71810\ship.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\projects\battleship_main_fn71810\battleship_main_fn71810\ship.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  String.cpp
+  Submarine.cpp
+d:\projects\battleship_main_fn71810\battleship_main_fn71810\submarine.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+d:\projects\battleship_main_fn71810\battleship_main_fn71810\battleship_main_fn71810.cpp(180): warning C4715: 'loadOrPlay': not all control paths return a value
+d:\projects\battleship_main_fn71810\battleship_main_fn71810\battleship_main_fn71810.cpp(144): warning C4715: 'menu': not all control paths return a value
+  Battleship_main_fn71810.vcxproj -> D:\Projects\Battleship_main_fn71810\Debug\Battleship_main_fn71810.exe
